@@ -1,4 +1,4 @@
-package com.educandoweb.ProjetoCurso.entities;
+package com.educandoweb.ProjetoCurso.entities.enums;
 
 public enum OrderStatus {
 
