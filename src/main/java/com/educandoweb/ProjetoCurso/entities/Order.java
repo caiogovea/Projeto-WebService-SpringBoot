@@ -1,5 +1,6 @@
 package com.educandoweb.ProjetoCurso.entities;
 
+import com.educandoweb.ProjetoCurso.entities.OrderStatus;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 
